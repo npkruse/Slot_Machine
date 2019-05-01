@@ -1,0 +1,9 @@
+C:\Users\natek\Documents\Info Sys\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\natek\Documents\Info Sys\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\natek\Documents\Info Sys\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+C:\Users\natek\Documents\Info Sys\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\natek\Documents\Info Sys\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\natek\Documents\Info Sys\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\natek\Documents\Info Sys\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\natek\Documents\Info Sys\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\natek\Documents\Info Sys\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
